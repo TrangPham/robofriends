@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Ostrich Sans Bold';
+    src: url('../ostrich-sans-bold.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Ostrich Sans Bold';
+    font-weight: 400;
+    color: #0ccac4;
+}
